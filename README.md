@@ -33,5 +33,5 @@ Welcome to the Rock Paper Scissors game! This is a simple yet fun implementation
 
 ## Screenshots
 
-<img src="images/home.png" alt="Rock Paper Scissors Game" width="400"/>
+<img src="src/home.png" alt="Rock Paper Scissors Game" width="400"/>
 
