@@ -1,8 +1,8 @@
-# Rock Paper Scissors Game
+# Rock Paper Scissors Game ✌ 🖖 ✊
 
 Welcome to the Rock Paper Scissors game! This is a simple yet fun implementation of the classic game where you can play against a robot or watch two robots play against each other.
 
-## Features
+## Features 
 
 - **Play Against Robot:** Choose Rock, Paper, or Scissors to play against the computer.
 - **Counters:** Keep track of wins, losses, and ties.
@@ -33,5 +33,5 @@ Welcome to the Rock Paper Scissors game! This is a simple yet fun implementation
 
 ## Screenshots
 
-<img src="images/screenshot.png" alt="Rock Paper Scissors Game" width="400"/>
+<img src="images/home.png" alt="Rock Paper Scissors Game" width="400"/>
 
