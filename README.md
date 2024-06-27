@@ -33,7 +33,7 @@ Welcome to the Rock Paper Scissors game! This is a simple yet fun implementation
 
 ## Screenshots
 
-<p float="left">
+<p align="center"> 
   <img src="src/home.png" alt="Screenshot 1" width="450" />
   <img src="src/first.png" alt="Screenshot 2" width="450" /> 
 </p>
