@@ -33,5 +33,9 @@ Welcome to the Rock Paper Scissors game! This is a simple yet fun implementation
 
 ## Screenshots
 
-<img src="src/home.png" alt="Rock Paper Scissors Game" width="400"/>
+<p float="left">
+  <img src="src/home.png" alt="Screenshot 1" width="450" />
+  <img src="src/fart.png" alt="Screenshot 2" width="450" /> 
+</p>
+
 
