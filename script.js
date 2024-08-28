@@ -11,6 +11,7 @@ let tie = 0;
 let compInput;
 let isAutoplaying = false;
 let intervalId;
+
 function updateStatus(value){
     result.style.display = 'block';
     status.style.display = 'flex';
